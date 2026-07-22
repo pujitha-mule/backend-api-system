@@ -43,7 +43,7 @@ A backend-driven workflow management platform built using Java, Spring Boot, and
 
 ---
 
-## 📂 Project Architecture
+## Project Architecture
 
 ```bash
 backend-api-system/
