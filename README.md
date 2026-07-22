@@ -2,7 +2,7 @@
 
 A backend-driven workflow management platform built using Java, Spring Boot, and MySQL that enables workflow creation, approval management, task tracking, and secure role-based operations through REST APIs.
 
-## 🚀 Features
+## Features
 
 - Developed **15+ REST APIs** for:
   - Workflow creation
