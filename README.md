@@ -88,7 +88,7 @@ backend-api-system/
 
 ---
 
-## 🔐 Security Features
+## Security Features
 
 - Role-based endpoint protection
 - Authorization validation
@@ -140,7 +140,7 @@ mvn spring-boot:run
 
 ---
 
-## 📬 Sample API Endpoints
+## Sample API Endpoints
 
 | Method | Endpoint | Description |
 |---|---|---|
@@ -152,7 +152,7 @@ mvn spring-boot:run
 
 ---
 
-## 📈 Key Highlights
+## Key Highlights
 
 - Built scalable backend architecture using Spring Boot
 - Developed secure RESTful services with RBAC
