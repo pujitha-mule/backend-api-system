@@ -108,7 +108,7 @@ The project uses a normalized MySQL relational schema to ensure:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Clone Repository
 
