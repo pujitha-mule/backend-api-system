@@ -64,7 +64,7 @@ backend-api-system/
 
 ---
 
-## ⚙️ Core Modules
+## Core Modules
 
 ### 1. Workflow Management
 - Create and manage workflows
